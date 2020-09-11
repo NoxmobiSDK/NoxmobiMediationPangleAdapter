@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "NoxmobiMediationPangleAdapter"
-  spec.version      = "3.2.5.2.1" # Mark
+  spec.version      = "3.2.5.2.2" # Mark
   spec.summary      = "Noxmobi ad mediation adapter for Pangle."
   spec.homepage     = "https://github.com/NoxmobiSDK/NoxmobiMediationPangleAdapter"
   spec.license      = "MIT"
