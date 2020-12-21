@@ -2,7 +2,7 @@
 
 # ===============修改podspec的版本号===========================
 
-PodName="NoxmobiMediationAdmobAdapter"
+PodName="NoxmobiMediationPangleAdapter"
 
 echo "\n🔥当前版本号："
 # 打印一下当前情况
