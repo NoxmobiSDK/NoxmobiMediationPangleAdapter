@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "NoxmobiMediationPangleAdapter"
-  spec.version      = "4.3.0.2.0" # Mark
+  spec.version      = "4.5.1.3.0" # Mark
   spec.summary      = "Noxmobi ad mediation adapter for Pangle."
   spec.homepage     = "https://github.com/NoxmobiSDK/NoxmobiMediationPangleAdapter"
   spec.license      = "MIT"
@@ -15,6 +15,6 @@ Pod::Spec.new do |spec|
   spec.ios.vendored_frameworks = 'NoxmobiMediationPangleAdapter.framework'
   spec.requires_arc = true
 
-  spec.dependency "Ads-Global", "4.3.0.2"
+  spec.dependency "Ads-Global", "4.5.1.3"
 
 end
